@@ -394,29 +394,4 @@ npm run test:coverage
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
-## 🙋 Support
-
-For support, email support@taskmanager.com or open an issue on GitHub.
-
-## 🎯 Roadmap
-
-- [ ] Mobile app (React Native)
-- [ ] AI-powered task suggestions
-- [ ] Team collaboration features
-- [ ] Advanced analytics
-- [ ] Integration with third-party apps
-- [ ] Offline sync
-- [ ] Voice commands
-- [ ] Multi-language support
-
-## 👨‍💻 Author
-
-Created with ❤️ by [Your Name]
-
----
-
-**TaskManager** - Your personal productivity assistant
